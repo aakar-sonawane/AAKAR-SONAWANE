@@ -13,9 +13,9 @@
 |---|---|
 | 🎭 **[Facial Emotion Recognition](https://github.com/PYTHONESH-KADAM/EMOTION-DETECTION)** | Real-time facial emotion detection using deep learning, trained on FER-2013 |
 | 🚗 **[Automatic Number Plate Recognition](https://github.com/PYTHONESH-KADAM)** | YOLOv8 + EasyOCR based license plate detection and tracking system |
-| 🤖 **[RAG-based Product Chatbot](https://github.com/PYTHONESH-KADAM)** | LangChain + AstraDB + Groq LLM powered recommendation chatbot |
-| 🎬 **[Movie Recommendation System](https://github.com/PYTHONESH-KADAM/MOVIE-RECOMMENDATION-SYSTEM)** | Content-based recommender using TF-IDF and cosine similarity |
-| 😷 **[Real-Time Face Mask Detection](https://github.com/PYTHONESH-KADAM/REAL-TIME-FACE-MASK-DETECTION)** | CNN-based real-time mask detection using OpenCV |
+| 🤖 **[RAG-based Product Chatbot](https://github.com/aakar-sonawane/BLUETOOTH-HEADPHONES-RECOMMENDATION-CHATBOT)** | LangChain + AstraDB + Groq LLM powered recommendation chatbot |
+| 🎬 **[Movie Recommendation System](https://github.com/aakar-sonawane/MOVIE-RECOMMENDATION-SYSTEM)** | Content-based recommender using TF-IDF and cosine similarity |
+| 😷 **[Real-Time Face Mask Detection](https://github.com/aakar-sonawane/REAL-TIME-FACE-MASK-DETECTION)** | CNN-based real-time mask detection using OpenCV |
 
 ---
 
