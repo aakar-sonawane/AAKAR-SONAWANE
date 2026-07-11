@@ -11,7 +11,7 @@
 
 | Project | Description |
 |---|---|
-| 🎭 **[Facial Emotion Recognition](https://github.com/PYTHONESH-KADAM/EMOTION-DETECTION)** | Real-time facial emotion detection using deep learning, trained on FER-2013 |
+| 🎭 **[Facial Emotion Recognition](https://github.com/aakar-sonawane/EMOTION-DETECTION)** | Real-time facial emotion detection using deep learning, trained on FER-2013 |
 | 🚗 **[Automatic Number Plate Recognition](https://github.com/PYTHONESH-KADAM)** | YOLOv8 + EasyOCR based license plate detection and tracking system |
 | 🤖 **[RAG-based Product Chatbot](https://github.com/aakar-sonawane/BLUETOOTH-HEADPHONES-RECOMMENDATION-CHATBOT)** | LangChain + AstraDB + Groq LLM powered recommendation chatbot |
 | 🎬 **[Movie Recommendation System](https://github.com/aakar-sonawane/MOVIE-RECOMMENDATION-SYSTEM)** | Content-based recommender using TF-IDF and cosine similarity |
