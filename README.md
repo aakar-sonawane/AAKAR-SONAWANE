@@ -17,8 +17,6 @@
 | 🎬 **[Movie Recommendation System](https://github.com/PYTHONESH-KADAM/MOVIE-RECOMMENDATION-SYSTEM)** | Content-based recommender using TF-IDF and cosine similarity |
 | 😷 **[Real-Time Face Mask Detection](https://github.com/PYTHONESH-KADAM/REAL-TIME-FACE-MASK-DETECTION)** | CNN-based real-time mask detection using OpenCV |
 
-*(Update the links above once your ANPR and Chatbot repos are live)*
-
 ---
 
 ### 🛠️ Tech Stack
