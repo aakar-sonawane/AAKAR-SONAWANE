@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakar Sonawane</h1>
 <h3 align="center">Final-Year AIML Engineering Student | Python . Machine Learning · Deep Learning · Computer Vision </h3>
 <p align="center">
-  I build real-world AI systems — from facial emotion recognition to license plate detection and RAG-based chatbots. Passionate about turning ML/DL concepts into working, deployable applications.
+  I build real-world AI systems — from facial emotion recognition to license plate detection and RAG-based chatbots. Passionate about turning AIML concepts into working, deployable applications.
 </p>
 
 ---
