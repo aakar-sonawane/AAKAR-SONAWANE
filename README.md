@@ -24,8 +24,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GenAI RAG LangChain](https://img.shields.io/badge/GenAI--RAG%20(LangChain)-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
