@@ -36,16 +36,12 @@
 
 ---
 
----
-
 ### 📫 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/aakar-sonawane-60a3b838b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="akkarsonawane1224@gmail.com">
+  <a href="mailto:aakarsonawane1224@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
