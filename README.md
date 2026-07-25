@@ -1,34 +1,45 @@
 <h1 align="center">Hi 👋, I'm Aakar Sonawane</h1>
-<h3 align="center">Final-Year AIML Engineering Student | Python . Machine Learning · Deep Learning · Computer Vision </h3>
+
+<h3 align="center">
+Final-Year AIML Engineering Student | Python • Machine Learning • Deep Learning • Computer Vision
+</h3>
+
 <p align="center">
-  I build real-world AI systems — from facial emotion recognition to license plate detection and RAG-based chatbots. Passionate about turning AIML concepts into working, deployable applications.
+I build end-to-end AI applications using Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, and Multi-Agent AI systems. Passionate about solving real-world problems through intelligent, deployable solutions.
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
+
 | Project | Description |
 |---|---|
-| 🎭 **[Facial Emotion Recognition](https://github.com/aakar-sonawane/EMOTION-DETECTION)** | Real-time facial emotion detection using deep learning, trained on FER-2013 |
-| 🚗 **[Automatic Number Plate Recognition](https://github.com/aakar-sonawane/AUTOMATIC-NUMBER-PLATE-RECOGNITION)** | YOLOv8 + EasyOCR based license plate detection and tracking system |
-| 🤖 **[RAG-based Product Chatbot](https://github.com/aakar-sonawane/BLUETOOTH-HEADPHONES-RECOMMENDATION-CHATBOT)** | LangChain + AstraDB + Groq LLM powered recommendation chatbot |
-| 🎬 **[Movie Recommendation System](https://github.com/aakar-sonawane/MOVIE-RECOMMENDATION-SYSTEM)** | Content-based recommender using TF-IDF and cosine similarity |
-| 😷 **[Real-Time Face Mask Detection](https://github.com/aakar-sonawane/REAL-TIME-FACE-MASK-DETECTION)** | CNN-based real-time mask detection using OpenCV |
+| 🧠 **[Multi-Agent AI Research System](https://github.com/aakar-sonawane/YOUR-REPOSITORY-NAME)** | Autonomous AI research system where specialized agents collaborate to plan, research, analyze, summarize, and generate structured reports. |
+| 🎭 **[Facial Emotion Recognition](https://github.com/aakar-sonawane/EMOTION-DETECTION)** | Real-time facial emotion recognition using CNNs, trained on the FER-2013 dataset. |
+| 🚗 **[Automatic Number Plate Recognition](https://github.com/aakar-sonawane/AUTOMATIC-NUMBER-PLATE-RECOGNITION)** | YOLOv8 + EasyOCR based license plate detection, OCR, and vehicle tracking system. |
+| 🤖 **[RAG-based Product Chatbot](https://github.com/aakar-sonawane/BLUETOOTH-HEADPHONES-RECOMMENDATION-CHATBOT)** | Intelligent product recommendation chatbot powered by LangChain, AstraDB, and Groq LLM. |
+| 🎬 **[Movie Recommendation System](https://github.com/aakar-sonawane/MOVIE-RECOMMENDATION-SYSTEM)** | Content-based movie recommender using TF-IDF vectorization and cosine similarity. |
+| 😷 **[Real-Time Face Mask Detection](https://github.com/aakar-sonawane/REAL-TIME-FACE-MASK-DETECTION)** | CNN-based real-time face mask detection using OpenCV. |
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aakar-sonawane&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakar-sonawane&theme=dark&hide_border=true" width="48%" />
@@ -36,12 +47,14 @@
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
+## 📫 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aakar-sonawane-60a3b838b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:aakarsonawane1224@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
