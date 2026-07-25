@@ -14,12 +14,11 @@ I build end-to-end AI applications using Machine Learning, Deep Learning, Comput
 
 | Project | Description |
 |---|---|
-| 🧠 **[Multi-Agent AI Research System](https://github.com/aakar-sonawane/YOUR-REPOSITORY-NAME)** | Autonomous AI research system where specialized agents collaborate to plan, research, analyze, summarize, and generate structured reports. |
+| 🧠 **[Research Mind](https://github.com/aakar-sonawane/RESEARCH_MIND)** | Autonomous AI research system where specialized agents collaborate to plan, research, analyze, summarize, and generate structured reports. |
 | 🎭 **[Facial Emotion Recognition](https://github.com/aakar-sonawane/EMOTION-DETECTION)** | Real-time facial emotion recognition using CNNs, trained on the FER-2013 dataset. |
 | 🚗 **[Automatic Number Plate Recognition](https://github.com/aakar-sonawane/AUTOMATIC-NUMBER-PLATE-RECOGNITION)** | YOLOv8 + EasyOCR based license plate detection, OCR, and vehicle tracking system. |
 | 🤖 **[RAG-based Product Chatbot](https://github.com/aakar-sonawane/BLUETOOTH-HEADPHONES-RECOMMENDATION-CHATBOT)** | Intelligent product recommendation chatbot powered by LangChain, AstraDB, and Groq LLM. |
 | 🎬 **[Movie Recommendation System](https://github.com/aakar-sonawane/MOVIE-RECOMMENDATION-SYSTEM)** | Content-based movie recommender using TF-IDF vectorization and cosine similarity. |
-| 😷 **[Real-Time Face Mask Detection](https://github.com/aakar-sonawane/REAL-TIME-FACE-MASK-DETECTION)** | CNN-based real-time face mask detection using OpenCV. |
 
 ---
 
@@ -31,10 +30,7 @@ I build end-to-end AI applications using Machine Learning, Deep Learning, Comput
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS-SAGEMAKER](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
