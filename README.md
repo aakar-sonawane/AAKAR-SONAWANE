@@ -12,7 +12,7 @@ I build end-to-end AI applications using Machine Learning, Deep Learning, Comput
 
 | Project | Description |
 |---|---|
-| 🌾 **[KhetiMitra](https://github.com/aakar-sonawane/KhetiMitra)** | Multi-model AI farming assistant combining ML-based crop recommendation, disease risk prediction, and real government-data-driven location recommendation. |
+| 🌾 **[AgriIntel](https://github.com/aakar-sonawane/KhetiMitra)** | Multi-model AI farming assistant combining ML-based crop recommendation, disease risk prediction, and real government-data-driven location recommendation. |
 | 🧠 **[Research Mind](https://github.com/aakar-sonawane/RESEARCH_MIND)** | Autonomous AI research system where specialized agents collaborate to plan, research, analyze, summarize, and generate structured reports. |
 | 🚗 **[Automatic Number Plate Recognition](https://github.com/aakar-sonawane/AUTOMATIC-NUMBER-PLATE-RECOGNITION)** | YOLOv8 + EasyOCR based license plate detection, OCR, and vehicle tracking system. |
 | 🤖 **[RAG-based Product Chatbot](https://github.com/aakar-sonawane/BLUETOOTH-HEADPHONES-RECOMMENDATION-CHATBOT)** | Intelligent product recommendation chatbot powered by LangChain, AstraDB, and Groq LLM. |
