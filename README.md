@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakar Sonawane</h1>
 <h3 align="center">
-Final-Year AIML Engineering Student | Python • Machine Learning • Deep Learning • Computer Vision
+Final-Year AIML Engineering Student | Python • Machine Learning • Deep Learning • Computer Vision • Langchain - LLM • GenAI • NLP 
 </h3>
 <p align="center">
 I build end-to-end AI applications using Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, and Multi-Agent AI systems. Passionate about solving real-world problems through intelligent, deployable solutions.
