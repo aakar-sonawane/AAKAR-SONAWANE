@@ -16,7 +16,7 @@ I build end-to-end AI applications using Machine Learning, Deep Learning, Comput
 | 🧠 **[Research Mind](https://github.com/aakar-sonawane/RESEARCH_MIND)** | Autonomous AI research system where specialized agents collaborate to plan, research, analyze, summarize, and generate structured reports. |
 | 🚗 **[Automatic Number Plate Recognition](https://github.com/aakar-sonawane/AUTOMATIC-NUMBER-PLATE-RECOGNITION)** | YOLOv8 + EasyOCR based license plate detection, OCR, and vehicle tracking system. |
 | 🤖 **[RAG-based Product Chatbot](https://github.com/aakar-sonawane/BLUETOOTH-HEADPHONES-RECOMMENDATION-CHATBOT)** | Intelligent product recommendation chatbot powered by LangChain, AstraDB, and Groq LLM. |
-| 🎬 **[Smart Storage Advisor](https://github.com/aakar-sonawane/SMART_STORAGE_ADVISOR)** | An agentic AI system that scans, analyzes, and helps clean up a PC's storage, RAM, and VRAM — through a natural-language chat interface (English or Hindi). Built with LangChain, a hybrid local/cloud LLM architecture (Ollama + Gemini), scikit-learn, and Streamlit. |
+| 🎬 **[Smart Storage Advisor](https://github.com/aakar-sonawane/SMART-STORAGE-ADVISOR)** | An agentic AI system that scans, analyzes, and helps clean up a PC's storage, RAM, and VRAM — through a natural-language chat interface (English or Hindi). Built with LangChain, a hybrid local/cloud LLM architecture (Ollama + Gemini), scikit-learn, and Streamlit. |
 
 ---
 
